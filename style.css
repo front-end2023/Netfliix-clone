@@ -137,6 +137,10 @@ nav .navright a{
     /*line-height: 55px;*/
     padding: 9px;
 }
+.homecontent .inputmail .getlink:hover{
+    background-color: #ce3a41;
+    cursor: pointer;
+}
 .homecontent .inputmail .getlink a{
     text-decoration: none;
     color: white;
@@ -444,6 +448,10 @@ nav .navright a{
     text-align: center;
     /*line-height: 55px;*/
     padding: 9px;
+}
+.sec6 .inputmail .getlink:hover{
+    background-color: #ce3a41;
+    cursor: pointer;
 }
 .sec6 .inputmail .getlink a{
     text-decoration: none;
